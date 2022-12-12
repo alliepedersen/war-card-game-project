@@ -289,3 +289,6 @@ let userName = game.askForString("What's your name?")
 game.splash("Hey, " + userName + " Let's play a card game!")
 random = randint(1, 13)
 assigningCardValues()
+while (true) {
+	
+}
